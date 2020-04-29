@@ -1,0 +1,25 @@
+{
+  "products" : [
+    {"id":1,"name":"Red phalarope","category":"Pink"},
+    {"id":2,"name":"Comb duck","category":"Fuscia"},
+    {"id":3,"name":"Creeper, black-tailed tree","category":"Mauv"},
+    {"id":4,"name":"Dusky gull","category":"Blue"},
+    {"id":5,"name":"Squirrel, palm","category":"Pink"},
+    {"id":6,"name":"Echidna, short-beaked","category":"Crimson"},
+    {"id":7,"name":"Giant girdled lizard","category":"Indigo"},
+    {"id":8,"name":"Flightless cormorant","category":"Aquamarine"},
+    {"id":9,"name":"Wild water buffalo","category":"Crimson"},
+    {"id":10,"name":"Ring-tailed coatimundi","category":"Goldenrod"},
+    {"id":11,"name":"Coke's hartebeest","category":"Blue"},
+    {"id":12,"name":"Squirrel, nelson ground","category":"Red"},
+    {"id":13,"name":"Purple moorhen","category":"Green"},
+    {"id":14,"name":"Lesser masked weaver","category":"Orange"},
+    {"id":15,"name":"Ground legaan","category":"Purple"},
+    {"id":16,"name":"Sun gazer","category":"Khaki"},
+    {"id":17,"name":"Guerza","category":"Aquamarine"},
+    {"id":18,"name":"Swan, black","category":"Red"},
+    {"id":19,"name":"Eagle, african fish","category":"Purple"},
+    {"id":20,"name":"Peregrine falcon","category":"Green"}
+  ]
+}
+
